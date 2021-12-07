@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jingslunt/jingslunt/master/img/profile2.gif"/>
+  <img src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile2.gif" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 </a>
 
 <a target="_blank" href=https://google.com >
-  <img height="25" width="25" src="https://raw.githubusercontent.com/jingslunt/jingslunt/master/img/pngegg.png" fill="#fff"/>
+  <img height="25" width="25" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" fill="#fff"/>
   &nbsp;
 </a>
 </p>
